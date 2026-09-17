@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My HTML Day 1 Practice</title>
+</head>
+<body>
+    <h1>My HTML Learning Journey</h1>
+    <h2>Introduction</h2>
+    <h3>About Me</h3>
+    <h4>My Skills</h4>
+    <h5>My Hobbies</h5>
+    <h6>My Career Goal</h6>
+    <h2>Text Formatting</h2>
+
+    <p>
+        My name is <b>Jans</b>.
+        I am learning <strong>HTML</strong>.
+    </p>
+
+    <p>
+        I want to become an <i>excellent programmer</i>
+        and build <em>useful web applications</em>.
+    </p>
+
+    <p>
+        HTML is <mark>easy to learn</mark>
+        when I practice regularly.
+    </p>
+
+    <p>
+        My old goal was <del>just learning theory</del>.
+        My new goal is <ins>coding every day</ins>.
+    </p>
+
+    <h2>Ordered List Types</h2>
+
+    <h3>1. Numbers</h3>
+    <ol type="1">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ol>
+
+
+    <h3>2. Capital Letters</h3>
+    <ol type="A">
+        <li>Learn</li>
+        <li>Practice</li>
+        <li>Improve</li>
+    </ol>
+
+
+    <h3>3. Small Letters</h3>
+    <ol type="a">
+        <li>Coding</li>
+        <li>Testing</li>
+        <li>Debugging</li>
+    </ol>
+
+
+    <h3>4. Capital Roman Numbers</h3>
+    <ol type="I">
+        <li>Introduction</li>
+        <li>Learning</li>
+        <li>Practice</li>
+    </ol>
+
+
+    <h3>5. Small Roman Numbers</h3>
+    <ol type="i">
+        <li>Beginner</li>
+        <li>Intermediate</li>
+        <li>Advanced</li>
+    </ol>
+
+
+    <h2>Unordered List Types</h2>
+
+    <h3>1. Disc</h3>
+    <ul type="disc">
+        <li>C</li>
+        <li>C++</li>
+        <li>Python</li>
+    </ul>
+
+
+    <h3>2. Circle</h3>
+    <ul type="circle">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+
+    <h3>3. Square</h3>
+    <ul type="square">
+        <li>Git</li>
+        <li>GitHub</li>
+        <li>VS Code</li>
+    </ul>
+
+    <h2>My Learning Schedule</h2>
+
+    <table border="1">
+
+        <tr>
+            <th>Day</th>
+            <th>Topic</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>Day 1</td>
+            <td>HTML Basics</td>
+            <td>Completed</td>
+        </tr>
+
+        <tr>
+            <td>Day 2</td>
+            <td>Links and Images</td>
+            <td>Upcoming</td>
+        </tr>
+
+        <tr>
+            <td>Day 3</td>
+            <td>Lists</td>
+            <td>Upcoming</td>
+        </tr>
+
+    </table>
+
+
+    <h2>My Goal</h2>
+
+    <p>
+        I will <strong>practice HTML every day</strong>
+        and improve my coding skills step by step.
+    </p>
+</body>
+</html>
