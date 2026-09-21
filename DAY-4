@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>College Registration Form</title>
+</head>
+
+<body>
+
+    <h1>College Registration Form</h1>
+
+    <form>
+
+        <fieldset>
+
+            <legend>Personal Information</legend>
+
+            <br>
+
+            <label>Full Name:</label>
+            <input type="text" name="fullname" required>
+
+            <br><br>
+
+            <label>Email:</label>
+            <input type="email" name="email" required>
+
+            <br><br>
+
+            <label>Password:</label>
+            <input type="password" name="password" required>
+
+            <br><br>
+
+            <label>Date of Birth:</label>
+            <input type="date" name="dob">
+
+            <br><br>
+
+            <label>Gender:</label>
+
+            <input type="radio" name="gender" value="male">
+            <label>Male</label>
+
+            <input type="radio" name="gender" value="female">
+            <label>Female</label>
+
+            <input type="radio" name="gender" value="other">
+            <label>Other</label>
+</body>
+</html>
