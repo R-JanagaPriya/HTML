@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Day 6 - Div and Span</title>
+</head>
+
+<body>
+
+    <h1>My Personal Profile</h1>
+
+
+    <div>
+
+        <h2>About Me</h2>
+
+        <p>
+            My name is Jans. I am an MCA student
+            interested in web development and programming.
+        </p>
+
+    </div>
+
+
+    <div>
+
+        <h2>My Education</h2>
+
+        <p>
+            I am currently pursuing
+            <span>MCA</span>.
+        </p>
+
+        <p>
+            I am interested in
+            <span>Computer Applications</span>
+            and Web Development.
+        </p>
+
+    </div>
+
+
+    <div>
+
+        <h2>My Skills</h2>
+
+        <ul>
+
+            <li>HTML</li>
+            <li>Python</li>
+            <li>C Programming</li>
+            <li>Web Development</li>
+
+        </ul>
+
+    </div>
+
+
+    <div>
+
+        <h2>My Projects</h2>
+
+        <p>
+            Project 1:
+            <span>ResQora</span>
+        </p>
+
+        <p>
+            Project 2:
+            <span>Intellipole Sentinel</span>
+        </p>
+
+    </div>
+
+
+    <div>
+
+        <h2>My Goal</h2>
+
+        <p>
+            My goal is to become a
+            <span>professional web developer</span>.
+        </p>
+
+    </div>
+
+
+</body>
+
+</html>
